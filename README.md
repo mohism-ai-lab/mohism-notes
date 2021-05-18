@@ -1,0 +1,2 @@
+# mohism-notes
+Notes system
