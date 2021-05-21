@@ -1,0 +1,9 @@
+site_name: Mohism-Notes
+
+theme:
+    name: material
+
+nav:
+- Home: 'index.md'
+- WebRTC:
+    - 'WebRTC Prepare':    'webrtc/WebRTC-Prepare.markdown'
